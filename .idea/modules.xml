@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnimationComponents.iml" filepath="$PROJECT_DIR$/AnimationComponents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GmailScrollViewHeader/GmailScrollViewHeader.iml" filepath="$PROJECT_DIR$/GmailScrollViewHeader/GmailScrollViewHeader.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
